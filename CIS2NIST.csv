@@ -1,0 +1,7 @@
+CIS Control,NIST CSF Function
+"CIS 4 Secure Configuration of Enterprise Assets and Software",Identify
+"CIS 5 Account Management",Protect
+"CIS 1 Inventory and Control of Enterprise Assets",Identify
+"CIS 6 Access Control Management",Protect
+"CIS 16 Application Software Security",Respond
+"CIS 3 Data Protection",Protect

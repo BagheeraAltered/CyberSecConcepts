@@ -1,0 +1,7 @@
+NIST CSF Function,Concept
+Identify,Defense in Depth
+Protect,Least Privilege
+Protect,Zero Trust
+Detect,Defense in Depth
+Respond,Security by Design
+Recover,Privacy by Design
